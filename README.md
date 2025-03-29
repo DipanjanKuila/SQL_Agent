@@ -26,7 +26,9 @@ Ensure you have:
 - **PostgreSQL** database set up
 - **Google Gemini API Key**
 
-## Set Up Environment Variables
+## ⚙️ **Environment Setup**
+
+### **.env File Configuration**
 - **GOOGLE_API_KEY**=your_google_api_key
 - **DB_NAME**=your_db_name
 - **DB_USER**=your_db_user
