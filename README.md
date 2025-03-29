@@ -18,6 +18,10 @@ This project is a **PostgreSQL Agent** powered by **Google's Gemini API** and **
 - **LangGraph** - Workflow automation
 - **Python (psycopg2, dotenv, typing_extensions)** - Backend logic
 
+  ### **Workflow Diagram**
+
+![workflow](workflow.png)
+
 ## Installation & Setup
 
 ### Prerequisites
