@@ -27,11 +27,11 @@ Ensure you have:
 - **Google Gemini API Key**
 
 ## Set Up Environment Variables
-GOOGLE_API_KEY=your_google_api_key
-DB_NAME=your_db_name
-DB_USER=your_db_user
-DB_PASSWORD=your_db_password
-DB_HOST=your_db_host
-DB_PORT=your_db_port
+- **GOOGLE_API_KEY**=your_google_api_key
+- **DB_NAME**=your_db_name
+- **DB_USER**=your_db_user
+- **DB_PASSWORD**=your_db_password
+- **DB_HOST**=your_db_host
+- **DB_PORT**=your_db_port
 ## Run the Application
 streamlit run app.py
